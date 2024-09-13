@@ -1,5 +1,7 @@
 # IDEIAS
 
-Reproduzir o Ubunto Server 22.04 do Vaamonde
+Reproduzir o Web Server Ubunto 22.04 do Vaamonde
 
 Servidor Samba
+
+Servidor DNS e Firewall com Linux
